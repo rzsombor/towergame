@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CrosshairScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TargetingScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/CrosshairScript.js" Line="9" Column="53" />
+      <File FileName="Assets\Scripts\CameraScripts\MouseLookScript.js" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\TargetingScript.cs" Line="22" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

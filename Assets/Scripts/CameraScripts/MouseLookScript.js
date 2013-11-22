@@ -21,7 +21,7 @@ function LateUpdate () {
     x += Input.GetAxis("Mouse X") * xSpeed * 0.02;
     y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02;
  		
- 	x = ClampAngle(x, xMinLimit, xMaxLimit);
+ 	x = x % 360;
  	y = ClampAngle(y, yMinLimit, yMaxLimit);
  		       
     var rotation = Quaternion.Euler(y, x, 0);
