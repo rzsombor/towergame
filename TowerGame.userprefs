@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TargetingScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TargetingScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\CameraScripts\MouseLookScript.js" Line="32" Column="1" />
-      <File FileName="Assets\Scripts\TargetingScript.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/TargetingScript.cs" Line="19" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

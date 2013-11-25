@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooting/Projectile.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement/AsteroidGenerator.cs" Line="25" Column="31" />
+      <File FileName="Assets/Scripts/Shooting/Gun.cs" Line="30" Column="90" />
+      <File FileName="Assets/Scripts/Shooting/Asteroid.cs" Line="23" Column="36" />
+      <File FileName="Assets/Scripts/Shooting/Projectile.cs" Line="23" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
