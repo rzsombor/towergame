@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Shooting\Asteroid.cs" />
      <Compile Include="Assets\Scripts\Shooting\Gun.cs" />
      <Compile Include="Assets\Scripts\Shooting\Projectile.cs" />
+     <Compile Include="Assets\Scripts\Shooting\SelfDestruct.cs" />
      <Compile Include="Assets\Scripts\Shooting\Turret.cs" />
      <None Include="Assets\Prefabs\Nobiax Free Rocks\Nobiax Free Rocks.txt" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
